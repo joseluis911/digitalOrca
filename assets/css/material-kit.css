@@ -14932,7 +14932,19 @@ footer .pull-center {
 }
 
 .icon.icon-primary {
-  color: #9c27b0;
+  color: #2196f3;
+}
+.icon.icon-darkCyan{
+  color: #0C6A9C;
+}
+.icon.icon-mediumTurquoise{
+  color: #49A5D3;
+}
+.icon.icon-midnightBlue{
+  color: #14323D;
+}
+.icon.icon-silver{
+  color: #C6CAC5;
 }
 
 .icon.icon-info {
